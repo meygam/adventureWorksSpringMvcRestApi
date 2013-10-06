@@ -1,4 +1,4 @@
-package com.meygam.adventureWorksApi.resource;
+package com.meygam.adventureworks.api.resource;
 
 import java.util.ArrayList;
 

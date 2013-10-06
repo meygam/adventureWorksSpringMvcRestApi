@@ -1,4 +1,4 @@
-package com.meygam.adventureWorksApi.controller;
+package com.meygam.adventureworks.api.controller;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.stereotype.Controller;
@@ -7,8 +7,8 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.bind.annotation.ResponseStatus;
 
-import com.meygam.adventureWorksApi.resource.Product;
-import com.meygam.adventureWorksApi.resource.ProductList;
+import com.meygam.adventureworks.api.resource.Product;
+import com.meygam.adventureworks.api.resource.ProductList;
 
 @Controller
 public class ProductController {
